@@ -1,3 +1,5 @@
+---
+
 # Inverted Search
 
 ## Description
@@ -20,4 +22,4 @@ It mimics how search engines work internally.
 ## How to Run
 1. Compile the program:
    ```bash
-   gcc inverted_search.c -o inverted_search
+   gcc *.c -o inverted_search
